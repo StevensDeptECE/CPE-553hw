@@ -22,7 +22,7 @@
 
 Compute the same sum backwards. Print out the difference between the two sums and determine which one is more accurate.
 
-1. Mystery Sum: Compute the sum: 1/1 + 1/4 + 1/9 + ... where the denominator is $n^2$.
+1. Mystery Sum: Compute the sum: $1/1^2 + 1/2^2 + 1/3^2 + ... 1/n^2$.
 
 ## Nested Loops
 
